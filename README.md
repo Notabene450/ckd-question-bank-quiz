@@ -1,2 +1,5 @@
-# ckd-question-bank-quiz
-Chronic Kidney Disease · Question Bank · Quiz
+# Chronic Kidney Disease · Question Bank · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
